@@ -1,6 +1,1 @@
 .
-.
-Oi
-Teste
-Teste
-AAAA
